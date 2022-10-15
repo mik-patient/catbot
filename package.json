@@ -16,7 +16,7 @@
 		"eslint": "^5.16.0",
 		"jest": "^26.6.3",
 		"nodemon": "^2.0.2",
-		"rewire": "^4.0.1",
+		"rewire": "^6.0.0",
 		"supertest": "^4.0.2"
 	},
 	"dependencies": {
